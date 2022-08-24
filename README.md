@@ -3,7 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Support Me 
-<strong><a href="https://www.buymeacoffee.com/danishlaeeq" target="blank">☕ Buy Me a Coffe :)</a></strong>
+<strong><a href="https://www.buymeacoffee.com/danishlaeeq" target="blank">☕ Buy Me a Coffe</a></strong>
+<strong><a href="https://www.patreon.com/danishlaeeq" target="blank">❤️ Become Patreon</a></strong>
 
 ## Available Scripts
 
