@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Support Me 
-<a href="https://www.buymeacoffee.com/danishlaeeq" target="blank">Buy Me a Coffe :)</a>
+<strong><a href="https://www.buymeacoffee.com/danishlaeeq" target="blank">Buy Me a Coffe :)</a></strong>
 
 ## Available Scripts
 
